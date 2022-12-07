@@ -1,0 +1,4 @@
+type: lrc-data-files
+targets: 
+  - data-files
+  - invalid data-files
